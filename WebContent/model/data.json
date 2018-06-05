@@ -1,0 +1,21 @@
+{
+  "companyData" : {
+          "name" : "SMAX",
+          "address" : "Hyderabad",
+          
+          "departments" : [
+          {
+           "dept" : "SAP"
+          },
+          {
+            "dept" : "ORACLE"
+          },
+          {
+           "dept" : "Data Science"
+          },
+          {
+           "dept" : "Java"
+          }
+          ]
+  }
+}
